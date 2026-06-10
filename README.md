@@ -1,26 +1,12 @@
-# مبتلع العوالم
+# مبتلع العوالم - Swallower of Worlds
 
-Swallower of Worlds
+لعبة RPG مفتوحة العالم + بناء + محاكاة عميقة + ابتلاع عوالم.
 
-Epic fantasy RPG where you swallow and integrate 6 realms: World of Light, Darkness, Dragons & Phoenixes, Elves, Dwarves, Humans & Beasts.
+## الميزات الرئيسية
+- 6 عوالم مستقلة (نور، ظلام، تنانين وعنقاء، إيلف، أقزام، بشر ووحوش).
+- آلية ابتلاع بيئات كاملة مع الحفاظ على السلوكيات.
+- عالم شخصي لا نهائي (Minecraft-like + simulation).
+- محاكاة تاريخية/إمبراطورية مع زواج أجناس وموت حضارات.
+- RPG stats + Crafting + Employment + Procedural Generation.
 
-## Core Features
-- World Swallowing Mechanic
-- Procedural Generation
-- Minecraft-like Building in Personal Realm
-- Deep Simulation & Empire Building
-- RPG Stats & Progression
-
-## Realms
-1. عالم النور (Light)
-2. عالم الظلام (Darkness)
-3. عالم التنانين والعنقاء (Dragons & Phoenix)
-4. عالم الإيلف (Elves)
-5. عالم الأقزام (Dwarves)
-6. عالم البشر والوحوش (Humans & Beasts)
-
-## Tech Stack (Proposed)
-- Godot 4.x for open-source flexibility and 2D/3D support
-- Or Unity for advanced features
-
-Start with design docs and prototypes.
+المشروع تراكمي ومستمر عبر المحادثات.

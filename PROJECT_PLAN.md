@@ -1,12 +1,10 @@
-# Daily Development Plan
+# خطة المشروع التراكمية - Swallower of Worlds
 
-## Day 1 (Today):
-- Created repo, README, DESIGN.md, PROJECT_PLAN.md
-- Next: Define detailed realm specs, core mechanics pseudocode.
+**اليوم الحالي:** توسيع DESIGN.md + هيكل Godot + scripts.
 
-## Day 2 Plan:
-- Expand GDD with realm details, mechanics pseudocode.
-- Set up Godot project structure.
-- Initial prototype ideas.
+**التقدم:**
+- هيكل مجلدات كامل.
+- DESIGN.md مفصل.
+- SwallowingSystem.gd أولي.
 
-Focus on modular, scalable architecture using Godot best practices.
+**التالي:** JSON realms + PersonalWorld.gd + scenes.
